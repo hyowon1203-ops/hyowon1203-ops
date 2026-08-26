@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   - 역할: UI 화면 기획 및 AI 캐릭터 모션 캡처 적용
   - 성과: 사용자 상호작용 중심의 인터랙티브 서비스 기획 및 구현
 
-- **AI COMPOSER (멀티모달 음악 생성 시스템)** *(팀 프로젝트)*
+- **AI COMPOSER (멀티모달 음악 생성 시스템)** *(팀 프로젝트)* - [GitHub](https://github.com/hyowon1203-ops/ai-composer-backup)
   - 역할: 학회 논문 리서치를 통한 기존 오픈소스 알고리즘 구조 개선
 
 - **선행지식 공백 탐지기 (그래프 데이터 기반)** — [GitHub](https://github.com/hyowon1203-ops/interactive-education)
