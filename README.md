@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ## 👩🏻‍💻 안녕하세요! 저는 진효원입니다.👋
-## Hi there 👋
 
 기존에는 주로 비전 AI, 데이터 분석, 그리고 백엔드 로직 설계에 집중해왔으며, 
 이제는 직접 설계한 논리 구조를 모바일 앱 환경에 접목하여 유저와 직관적으로 상호작용하는 프로덕트를 만들고자 합니다.
@@ -24,7 +23,6 @@ Here are some ideas to get you started:
 - **AI & Data** : Vision AI (OpenCV, YOLO), Data Visualization
 
 ### 🚀 주요 프로젝트 경험
-*(각 프로젝트의 상세 내용은 노션 및 포트폴리오 PDF를 참고해 주세요!)*
 
 - **AI 포토부스** 
   - 역할: UI 화면 기획 및 AI 캐릭터 모션 캡처 적용
