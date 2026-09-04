@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - **AI COMPOSER (멀티모달 음악 생성 시스템)** *(팀 프로젝트)* - [GitHub](https://github.com/hyowon1203-ops/ai-composer-backup)
   - 역할: 학회 논문 리서치를 통한 기존 오픈소스 알고리즘 구조 개선
 
-- **선행지식 공백 탐지기 (그래프 데이터 기반)** — [GitHub](https://github.com/hyowon1203-ops/interactive-education)
+- **선행지식 공백 탐지기 (그래프 데이터 기반)** — [GitHub](https://github.com/hyowon1203-ops/knowgap)
   - 역할: 핵심 탐지 로직 설계 및 데이터 인터페이스 계약서 작성
   - 성과: 명확한 기준(문서화)을 통한 비동기 협업 효율성 증대
 
